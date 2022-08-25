@@ -1,0 +1,21 @@
+.h1 {
+    display: flex;
+    align-items: center;
+    color: black;
+}
+
+.div-mb3 {
+    background-color: #464D6A;
+}
+
+.borderForm {
+    background-color: #D4D5D5;
+}
+
+button-width {
+    width: 100%;
+}
+
+.btn-edit {
+    margin-right: 13px;
+}
